@@ -1,2 +1,2 @@
-print('Hello webhook')
+print('Hello Namaste!')
 
